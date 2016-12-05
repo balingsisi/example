@@ -1,4 +1,4 @@
 <?php 
 	echo "a new file !!";
-	echo "two file";
+	//echo "two file";
 ?>
